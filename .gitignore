@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 data/Large_data_set/*
+note/*
